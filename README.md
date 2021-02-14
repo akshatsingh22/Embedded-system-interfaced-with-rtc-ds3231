@@ -1,1 +1,1 @@
-# embedded-system-interfaced-with-rtc-ds3231
+# Embedded-system-interfaced-with-rtc-ds3231
